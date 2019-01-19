@@ -19,7 +19,7 @@ import socket
 
 # 获取本地ip
 # localIP = socket.gethostbyname(socket.gethostname())
-localIP = "127.0.0.1"
+localIP = "192.168.2.220"
 
 # ca subj
 country_name = "CN"
