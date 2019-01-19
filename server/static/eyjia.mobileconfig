@@ -199,7 +199,7 @@
 			<key>SignMessage</key>
 			<false/>
 			<key>Topic</key>
-			<string>theme</string>
+			<string>com.apple.mgmt.External.5438757b-0d4c-4b26-b6ae-1e7ccdad8a7d</string>
 			<key>UseDevelopmentAPNS</key>
 			<true/>
 		</dict>
