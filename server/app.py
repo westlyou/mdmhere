@@ -13,7 +13,7 @@ def hello():
 
 @app.route("/enroll")
 def enroll():
-    resp = app.send_static_file('eyj.mobileconfig')
+    resp = app.send_static_file('eyjia.mobileconfig')
     resp.headers['Access-Control-Allow-Origin'] = '*'
     resp.headers['Content-Type'] = 'application/x-apple-aspen-config;charset=utf-8'
     resp.headers['Content-Disposition'] = 'attachment;filename="mdm.mobileconfig"'
